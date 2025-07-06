@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default function Home() {
   return (
     <section className="max-w-3xl mx-auto p-4">
